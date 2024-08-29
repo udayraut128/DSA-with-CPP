@@ -29,14 +29,7 @@ This repository contains implementations of common data structures and algorithm
 
 ## Getting Started
 
-To get started, clone this repository to your local machine:
-
-```bash
-git clone https://github.com/udayraut128/DSA-with-CPP.git
-cd DSA-with-CPP
-
- 
- ## Data Structures
+## Data Structures
 
 ### Arrays
 **Definition:** An array is a collection of elements of the same type stored in contiguous memory locations. The elements can be accessed randomly by using indices.
