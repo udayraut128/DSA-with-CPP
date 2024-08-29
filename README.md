@@ -1,4 +1,4 @@
- # DSA with C++
+# DSA with C++
 
 Welcome to the **DSA with C++** repository! This project, maintained by **udayraut128**, is focused on implementing various data structures and algorithms using C++. Whether you're learning or reviewing concepts, this repository provides clean and well-documented implementations to help you understand and practice DSA.
 
@@ -35,8 +35,8 @@ To get started, clone this repository to your local machine:
 git clone https://github.com/udayraut128/DSA-with-CPP.git
 cd DSA-with-CPP
 
-
-## Data Structures
+ 
+ ## Data Structures
 
 ### Arrays
 **Definition:** An array is a collection of elements of the same type stored in contiguous memory locations. The elements can be accessed randomly by using indices.
